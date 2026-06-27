@@ -77,14 +77,7 @@ Sales_Forecasting_Output.csv
 
 ---
 
-## Project Structure
 
-```text
-Day06
-├── Sales_Forecasting.ipynb
-├── Advertising.csv
-├── Sales_Forecasting_Output.csv
-└── README.md
 ```
 
 ---
