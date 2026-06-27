@@ -174,15 +174,7 @@ Contains:
 
 ---
 
-## Project Structure
 
-```
-Day05
-├── Loan_Approval_Prediction.ipynb
-├── Loan-Approval-Prediction.csv
-├── Loan_Approval_Output.csv
-└── README.md
-```
 
 ---
 
